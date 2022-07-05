@@ -1,0 +1,37 @@
+/****** basic style ******/
+
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.container{
+    width: 90%;
+    margin: auto;
+}
+.btn{
+    text-decoration: none;
+    color: #fff;
+    font-size: 18px;
+    font-weight: 600;
+    padding: 15px 20px;
+    border-radius: 50px;
+    background: linear-gradient(to right, #FC8B47 , #FE4C2F);
+}
+
+/****** banner style ******/
+#banner{
+    background: url()
+}
+#banner h1{
+    font-size: 60px;
+    color: #575757;
+    line-height: 35px;
+}
+#banner h1 span{
+    color: #FC914A;
+}
+#banner p{
+    font-size: 17px;
+    padding-bottom: 20px;
+}
